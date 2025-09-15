@@ -8,7 +8,11 @@ class Ghost {
 let ghosts = [];
 
 const create_ghost = (ghost) => {
-  // TODO: addGhost
+  ghosts.push({
+    name: ghost.name,
+    dangerLevel: ghost.dangerLevel,
+    captured: false,
+  });
 };
 
 const set_DANGER_LEVEL = (name, level) => {
