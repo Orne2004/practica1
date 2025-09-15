@@ -6,8 +6,8 @@
 
 ‼️ **Importante:** Luego de clonar el repositorio modifica las siguientes líneas con tu nombre y número de estudiante, y realiza un commit con el mensaje `"Update README.md"`:
 
-- **Nombre:** XXXXXXXX  
-- **Número de estudiante:** XXXXXXXX  
+- **Nombre:** Ornella Sarantes  
+- **Número de estudiante:** 323579  
 
 ---
 
